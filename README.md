@@ -1,4 +1,4 @@
-The project on ReactJs is the whole clone of the Netflix Web Application landing page which includes Token Auth feature.
+This project built with ReactJs Framework is the whole clone of the Netflix Web Application landing page which includes Token Auth feature.
 Working application link: https://netflix-clone-9fee5.web.app/
 
 ## Available Scripts
